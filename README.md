@@ -63,6 +63,6 @@ $ curl -H "Content-Type: application/json" -d '{"text":"ths is a really really r
 ## Setup example
 Use this setup
 
-aws_access_key_id = AKIAIOSFODNN7EXAMPLE
-aws_secret_access_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+aws_access_key_id = XKIAIOSFODNN7EXAMPLE
+aws_secret_access_key = wJslrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 
